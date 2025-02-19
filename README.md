@@ -1,8 +1,4 @@
-## Hi there, I'm [Jayesh] 👋
-
-<!--
-**cipher-the-decipher/cipher-the-decipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Hi there, I'm Jayesh 👋
 
 🔒 Cybersecurity Enthusiast | Lifelong Learner
 
@@ -42,3 +38,4 @@ Here are some things I’m working on:
 
 Thanks for stopping by! Let's connect and learn together. 🚀
 
+>
