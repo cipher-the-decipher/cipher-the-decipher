@@ -6,11 +6,9 @@ Welcome to my GitHub profile! I'm a beginner in the cybersecurity field with a s
 
 🌟 About Me:
 
-🎓 Currently learning cybersecurity fundamentals, ethical hacking, and digital forensics
+🎓 Currently learning cybersecurity fundamentals and digital forensics
 
-📚 Exploring penetration testing, CTF challenges, and secure coding
-
-🛠️ Practicing hands-on skills in Kali Linux, Wireshark, Metasploit, and Python for security
+🛠️ Practicing hands-on skills in Kali Linux, Wireshark and Python for security
 
 🎨 Passionate about open-source security tools and contributing to the cybersecurity community
 
@@ -26,11 +24,15 @@ Here are some things I’m working on:
 
 👨‍� https://www.linkedin.com/in/jayesh-dalvi-a114b079/
 
-📧 Email: jayesh.jd01@gmail.com
+📧 Email: jayeshd965@gmail.com
+
+🏆 Achievments:
+
+✅ Certified in ISC2 CC
 
 🎯 Goals:
 
-✅ Get certified in ISC2 CC/ CompTIA Security+ / CEH 
+✅ CompTIA Security+ /CySA+
 
 ✅ Contribute to open-source security projects
 
