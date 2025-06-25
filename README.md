@@ -30,6 +30,8 @@ Here are some things I’m working on:
 
 ✅ Certified in ISC2 CC
 
+✅ Certified in Splunk
+
 🎯 Goals:
 
 ✅ CompTIA Security+ /CySA+
