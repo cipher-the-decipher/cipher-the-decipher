@@ -32,6 +32,8 @@ Here are some things I’m working on:
 
 ✅ Certified in Splunk
 
+✅ Home lab with verified network
+
 🎯 Goals:
 
 ✅ CompTIA CySA+ / ISC2 SSCP
