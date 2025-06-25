@@ -34,7 +34,7 @@ Here are some things I’m working on:
 
 🎯 Goals:
 
-✅ CompTIA Security+ /CySA+
+✅ CompTIA CySA+ / ISC2 SSCP
 
 ✅ Contribute to open-source security projects
 
